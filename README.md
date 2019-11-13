@@ -6,7 +6,9 @@ This repository contains
 * [a list of interesting newsletters](inbox_resources.md)
 * [a list of places to find grey literature](grey_literature.md)
 
-For miscellaneous code, see [Miscellaneous](https://github.com/mariabnd/miscellaneous)
+For code, see _[Miscellaneous](https://github.com/mariabnd/miscellaneous)_
+
+For articles, see _[Journal club](https://github.com/mariabnd/journal_club)_
 
 ## License
 
