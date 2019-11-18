@@ -31,6 +31,7 @@ An overview of mailing lists or newsletters that are worth signing up for
 
 ## Publishing
 * [Retraction Watch](https://retractionwatch.com/)
+* [Declaration on Research Assessment (DORA)](https://sfdora.org/)
 
 ## Coding
 * [Compassionate coding](https://compassionatecoding.com/)
