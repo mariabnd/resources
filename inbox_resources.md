@@ -24,10 +24,14 @@ An overview of mailing lists or newsletters that are worth signing up for
 
 ## Health
 * [World Health Organization's newsletter](https://www.who.int/mediacentre/multimedia/newsletter/en/)
+* [The King's Fund](https://www.kingsfund.org.uk/emails?utm_source=button)
 
 ## Funding
 * [Mozilla research grants](https://mail.mozilla.org/listinfo/mozilla-research-grant)
 * [Wellcome](https://wellcome.ac.uk/funding)
+* [European Commission](https://ec.europa.eu/info/funding-tenders_en)
+* [Chan Zuckerberg](https://chanzuckerberg.com/science/science-funding/)
+* [National Institute for Health Research (NIHR)](https://www.nihr.ac.uk/researchers/funding-opportunities/)
 
 ## Publishing
 * [Retraction Watch](https://retractionwatch.com/)
