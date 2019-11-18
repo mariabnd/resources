@@ -24,7 +24,7 @@ An overview of mailing lists or newsletters that are worth signing up for
 
 ## Health
 * [World Health Organization's newsletter](https://www.who.int/mediacentre/multimedia/newsletter/en/)
-* [The King's Fund](https://www.kingsfund.org.uk/emails?utm_source=button)
+* [The King's Fund](https://www.kingsfund.org.uk/emails)
 
 ## Funding
 * [Mozilla research grants](https://mail.mozilla.org/listinfo/mozilla-research-grant)
