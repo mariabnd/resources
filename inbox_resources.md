@@ -32,6 +32,8 @@ An overview of mailing lists or newsletters that are worth signing up for
 * [European Commission](https://ec.europa.eu/info/funding-tenders_en)
 * [Chan Zuckerberg](https://chanzuckerberg.com/science/science-funding/)
 * [National Institute for Health Research (NIHR)](https://www.nihr.ac.uk/researchers/funding-opportunities/)
+* [Royal Society of Tropical Medicine and Hygiene (RSTMH) small grants](https://rstmh.org/grants)
+* [European Union](https://europa.eu/european-union/about-eu/funding-grants_en)
 
 ## Publishing
 * [Retraction Watch](https://retractionwatch.com/)
