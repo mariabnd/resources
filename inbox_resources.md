@@ -25,6 +25,7 @@ An overview of mailing lists or newsletters that are worth signing up for
 ## Health
 * [World Health Organization's newsletter](https://www.who.int/mediacentre/multimedia/newsletter/en/)
 * [The King's Fund](https://www.kingsfund.org.uk/emails)
+* [Berlin Epidemiological Methods Colloquium](https://bemcolloquium.com/contact/)
 
 ## Science
 * [The Royal Society](https://royalsociety.org/stay-in-touch/email-newsletters/)
