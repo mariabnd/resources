@@ -38,6 +38,8 @@ An overview of mailing lists or newsletters that are worth signing up for
 * [National Institute for Health Research (NIHR)](https://www.nihr.ac.uk/researchers/funding-opportunities/)
 * [Royal Society of Tropical Medicine and Hygiene (RSTMH) small grants](https://rstmh.org/grants)
 * [European Union](https://europa.eu/european-union/about-eu/funding-grants_en)
+* [European Society of Clinical Microbiology and Infectious Diseases (ESCMID)](https://www.escmid.org/research_projects/supported_research_projects/)
+* [International Society for Infectious Diseases (ISID)](https://isid.org/research/isid-research-grants/)
 
 ## Publishing
 * [Retraction Watch](https://retractionwatch.com/)
