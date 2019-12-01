@@ -14,6 +14,7 @@ An overview of mailing lists or newsletters that are worth signing up for
 * [R Epidemics Consortium (RECON)](https://www.repidemicsconsortium.org/)
 * [London Centre for Neglected Tropical Disease Research (LCNTDR)](https://www.londonntd.org/)
 * [London School of Hygiene & Tropical Medicine (LSHTM) newsletter](https://www.lshtm.ac.uk/newsevents/newsletter-signup)
+* [International Union Against Tuberculosis and Lung Disease](https://www.theunion.org/news-centre/e-news)
 
 ## Humanitarian crises
 * [Norwegian refugee council](https://www.nrc.no/)
