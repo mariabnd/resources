@@ -5,6 +5,7 @@
 This repository contains
 * [a list of interesting newsletters](inbox_resources.md)
 * [a list of places to find grey literature](grey_literature.md)
+* [a list of funding opportunities](funding.md)
 
 For code, see _[Miscellaneous](https://github.com/mariabnd/miscellaneous)_
 
