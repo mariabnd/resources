@@ -44,3 +44,4 @@ An overview of mailing lists or newsletters that are worth signing up for
 * [RSS Environmental Statistics Section](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ENVSTAT)
 * [Bayes Nordics](https://sites.google.com/site/bayesnordics/)
 * [Seminars at UCPH](https://list.ku.dk/postorius/lists/sci-math-statseminar.list.ku.dk)
+* [Data Science Community Newsletter](https://cds.nyu.edu/newsletter)
