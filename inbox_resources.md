@@ -16,6 +16,8 @@ An overview of mailing lists or newsletters that are worth signing up for
 * [London School of Hygiene & Tropical Medicine (LSHTM) newsletter](https://www.lshtm.ac.uk/newsevents/newsletter-signup)
 * [International Union Against Tuberculosis and Lung Disease](https://www.theunion.org/news-centre/e-news)
 * [Swiss TPH newsletter](https://www.swisstph.ch/en/newsletter)
+* [PREPARE Europe news flash](https://www.prepare-europe.eu)
+* [Longitude prize](https://longitudieprize.org/newsletter)
 
 ## Humanitarian crises
 * [Norwegian refugee council](https://www.nrc.no/)
