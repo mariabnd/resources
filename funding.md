@@ -12,3 +12,4 @@ An overview of websites related to funding (split out of [inbox resources](inbox
 * [European Society of Clinical Microbiology and Infectious Diseases (ESCMID)](https://www.escmid.org/research_projects/supported_research_projects/)
 * [International Society for Infectious Diseases (ISID)](https://isid.org/research/isid-research-grants/)
 * [Lister Institute](https://www.lister-institute.org.uk/how-to-apply/)
+* [Johns Hopkins University Funding Opportunities repositories](https://research.jhu.edu/rdt/funding-opportunities/)
