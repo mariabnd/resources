@@ -31,6 +31,7 @@ An overview of mailing lists or newsletters that are worth signing up for
 * [The King's Fund](https://www.kingsfund.org.uk/emails)
 * [The Health Foundation](https://preferences.health.org.uk/preference-centre/register)
 * [Berlin Epidemiological Methods Colloquium](https://bemcolloquium.com/contact/)
+* [European Health Policy Group](www.ehpg.org)
 
 ## Science
 * [The Royal Society](https://royalsociety.org/stay-in-touch/email-newsletters/)
