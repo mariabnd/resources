@@ -21,6 +21,7 @@ An overview of mailing lists or newsletters that are worth signing up for
 
 ## Humanitarian crises
 * [Norwegian refugee council](https://www.nrc.no/)
+* [United Nations Office for Project Services (UNOPS)](https://mailchi.mp/unops/unops-sign-up-en)
 
 ## Climate
 * [Silencing Science tracker](http://columbiaclimatelaw.com/resources/silencing-science-tracker/)
