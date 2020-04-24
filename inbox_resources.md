@@ -43,6 +43,7 @@ An overview of mailing lists or newsletters that are worth signing up for
 
 ## Coding
 * [Compassionate coding](https://compassionatecoding.com/)
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 
 ## Statistics
 * [ALLSTAT](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ALLSTAT)
