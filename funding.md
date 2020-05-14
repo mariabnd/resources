@@ -13,4 +13,5 @@ An overview of websites related to funding (split out of [inbox resources](inbox
 * [International Society for Infectious Diseases (ISID)](https://isid.org/research/isid-research-grants/)
 * [Lister Institute](https://www.lister-institute.org.uk/how-to-apply/)
 * [Johns Hopkins University Funding Opportunities repositories](https://research.jhu.edu/rdt/funding-opportunities/)
-* [GLOPID-R](https://www.glopid-r.org/resources/?type=funding_opportunities)
+* [Global Research Collaboration for Infectious Disease Preparedness (GLOPID-R)](https://www.glopid-r.org/resources/?type=funding_opportunities)
+* [The World Academy of Sciences (TWAS)](https://twas.org/opportunities/research-grants)
