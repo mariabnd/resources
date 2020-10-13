@@ -16,3 +16,4 @@ An overview of websites related to funding (split out of [inbox resources](inbox
 * [Global Research Collaboration for Infectious Disease Preparedness (GLOPID-R)](https://www.glopid-r.org/resources/?type=funding_opportunities)
 * [The World Academy of Sciences (TWAS)](https://twas.org/opportunities/research-grants)
 * [European and Developing Countries Clinical Trials Partnership (EDCTP)](https://www.edctp.org/funding/calls-for-proposals/)
+* [Special Programme for Research and Training in Tropical Diseases (TDR)](https://www.who.int/tdr/grants/en/)
