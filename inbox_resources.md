@@ -18,6 +18,7 @@ An overview of mailing lists or newsletters that are worth signing up for
 * [Swiss TPH newsletter](https://www.swisstph.ch/en/newsletter)
 * [PREPARE Europe news flash](https://www.prepare-europe.eu)
 * [Longitude prize](https://longitudieprize.org/newsletter)
+* [Special Programme for Research and Training in Tropical Diseases (TDR)](https://www.who.int/tdr/news/tdr_scientists_listserv/en/)
 
 ## Humanitarian crises
 * [Norwegian refugee council](https://www.nrc.no/)
