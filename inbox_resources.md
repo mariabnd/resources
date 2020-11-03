@@ -54,6 +54,7 @@ An overview of mailing lists or newsletters that are worth signing up for
 * [Bayes Nordics](https://sites.google.com/site/bayesnordics/)
 * [Seminars at UCPH](https://list.ku.dk/postorius/lists/sci-math-statseminar.list.ku.dk)
 * [Data Science Community Newsletter](https://cds.nyu.edu/newsletter)
+* [Statlist](https://stat.ethz.ch/mailman/listinfo/statlist)
 
 ## Misc
 * [Lancet conference alerts](https://info.thelancet.com/conference-alerts)
