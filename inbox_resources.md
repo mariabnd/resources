@@ -60,3 +60,5 @@ An overview of mailing lists or newsletters that are worth signing up for
 
 ## Misc
 * [Lancet conference alerts](https://info.thelancet.com/conference-alerts)
+* [Harvard Business Review Management Tip of the Day](https://hbr.org/email-newsletters)
+* [Great British Podcasts](https://www.greatbritishpodcasts.com/mailing-list/)
