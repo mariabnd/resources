@@ -19,3 +19,4 @@ An overview of websites related to funding (split out of [inbox resources](inbox
 * [Special Programme for Research and Training in Tropical Diseases (TDR)](https://www.who.int/tdr/grants/en/)
 * [European Society for Clinical Virology (ESCV) training grants](https://www.escv.eu/grants/training-grants/)
 * [Thomas Young Centre funded visits](https://www.thomasyoungcentre.org/fund-visits/)
+* [Society for Mathematical Biology](https://www.smb.org/grant-opportunities/)
