@@ -62,3 +62,4 @@ An overview of mailing lists or newsletters that are worth signing up for
 * [Lancet conference alerts](https://info.thelancet.com/conference-alerts)
 * [Harvard Business Review Management Tip of the Day](https://hbr.org/email-newsletters)
 * [Great British Podcasts](https://www.greatbritishpodcasts.com/mailing-list/)
+* [Deutsche Welle - contains both regular news and  Deutsch als Fremdsprache options](https://www.dw.com/en/newsletter-registration/a-15718229)
