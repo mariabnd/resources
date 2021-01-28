@@ -30,6 +30,7 @@ An overview of mailing lists or newsletters that are worth signing up for
 ## Climate
 * [Silencing Science tracker](http://columbiaclimatelaw.com/resources/silencing-science-tracker/)
 * [United Nations University (UNU) INSIGHTS](https://unu.edu/insights)
+* [ Integrated Carbon Observation System (ICOS)](https://www.icos-cp.eu/news-and-events/newsletters)
 
 ## Health
 * [World Health Organization's newsletter](https://www.who.int/mediacentre/multimedia/newsletter/en/)
