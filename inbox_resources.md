@@ -21,6 +21,7 @@ An overview of mailing lists or newsletters that are worth signing up for
 * [Special Programme for Research and Training in Tropical Diseases (TDR)](https://www.who.int/tdr/news/tdr_scientists_listserv/en/)
 * [Public Health Rapid Support Team (UK-PHRST)](https://uk-phrst.tghn.org/newsletter/)
 * [COVID Reference](https://covidreference.com/newsletter)
+* [International Vaccine Institute (IVI)](https://ivi.us11.list-manage.com/subscribe?u=893db71dee13169582bd5f91e&id=441daa9683)
 
 ## Humanitarian crises
 * [Norwegian refugee council](https://www.nrc.no/)
