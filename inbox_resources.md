@@ -22,6 +22,7 @@ An overview of mailing lists or newsletters that are worth signing up for
 * [Public Health Rapid Support Team (UK-PHRST)](https://uk-phrst.tghn.org/newsletter/)
 * [COVID Reference](https://covidreference.com/newsletter)
 * [International Vaccine Institute (IVI)](https://ivi.us11.list-manage.com/subscribe?u=893db71dee13169582bd5f91e&id=441daa9683)
+* [Joint UNIversities Pandemic and Epidemiological Research (JUNIPER)](https://confirmsubscription.com/h/t/9A131FE37A626048)
 
 ## Humanitarian crises
 * [Norwegian refugee council](https://www.nrc.no/)
