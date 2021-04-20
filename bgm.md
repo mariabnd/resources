@@ -11,3 +11,4 @@ Various pieces of music that are sometimes nice to have on in the background whi
 | 小久保隆 (Takashi Kokubo) | ロアールの古城～中世の夢～  (Loire's Castles ~ Medieval Dreams ~)| 1993 |
 | しおのみち (Shio no Michi) | ニの巻 (Vol. 2) | 1994 |
 | Secret Stash | Советский Фанк (Soviet funk vol 1) | 2010 |
+| Alexandra Stréliski | Pianoscope | 2010 |
