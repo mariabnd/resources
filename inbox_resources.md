@@ -43,6 +43,7 @@ An overview of mailing lists or newsletters that are worth signing up for
 
 ## Science
 * [The Royal Society](https://royalsociety.org/stay-in-touch/email-newsletters/)
+* [Turing Institute](https://www.turing.ac.uk/contact-us/join-our-mailing-lists)
 
 ## Publishing
 * [Retraction Watch](https://retractionwatch.com/)
