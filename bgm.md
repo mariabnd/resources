@@ -13,4 +13,4 @@ Various pieces of music that are sometimes nice to have on in the background whi
 | Secret Stash | Советский Фанк (Soviet funk vol 1) | 2010 |
 | Alexandra Stréliski | Pianoscope | 2010 |
 
-[Radio Garden](radio.garden) remains a favourite for listening to radio stations from places I used to live and/or exploring other parts of the world I haven't been to.
+[Radio Garden](https://radio.garden) remains a favourite for listening to radio stations from places I used to live and/or exploring other parts of the world I haven't been to.
