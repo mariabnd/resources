@@ -32,10 +32,11 @@ An overview of mailing lists or newsletters that are worth signing up for
 ## Climate
 * [Silencing Science tracker](http://columbiaclimatelaw.com/resources/silencing-science-tracker/)
 * [United Nations University (UNU) INSIGHTS](https://unu.edu/insights)
-* [ Integrated Carbon Observation System (ICOS)](https://www.icos-cp.eu/news-and-events/newsletters)
+* [Integrated Carbon Observation System (ICOS)](https://www.icos-cp.eu/news-and-events/newsletters)
+* [European Centre for Environment and Human Health (ECEHH)](http://eepurl.com/mQjzj)
 
 ## Health
-* [World Health Organization's newsletter](https://www.who.int/mediacentre/multimedia/newsletter/en/)
+* [World Health Organization (WHO)](https://www.who.int/mediacentre/multimedia/newsletter/en/)
 * [The King's Fund](https://www.kingsfund.org.uk/emails)
 * [The Health Foundation](https://preferences.health.org.uk/preference-centre/register)
 * [Berlin Epidemiological Methods Colloquium](https://bemcolloquium.com/contact/)
