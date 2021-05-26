@@ -37,6 +37,7 @@ An overview of mailing lists or newsletters that are worth signing up for
 * [United Nations University (UNU) INSIGHTS](https://unu.edu/insights)
 * [Integrated Carbon Observation System (ICOS)](https://www.icos-cp.eu/news-and-events/newsletters)
 * [European Centre for Environment and Human Health (ECEHH)](http://eepurl.com/mQjzj)
+* [Geneva Environment Network](https://www.genevaenvironmentnetwork.org/resources/newsletter/)
 
 ## Health
 * [World Health Organization (WHO)](https://www.who.int/mediacentre/multimedia/newsletter/en/)
