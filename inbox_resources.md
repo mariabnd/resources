@@ -29,6 +29,9 @@ An overview of mailing lists or newsletters that are worth signing up for
 * [United Nations Office for Project Services (UNOPS)](https://mailchi.mp/unops/unops-sign-up-en)
 * [United Nations Platform for Space-based Information for Disaster Management and Emergency Response (UN SPIDER)](http://www.un-spider.org/news-and-events/newsletter)
 
+## Disaster
+* [Partnership for Environment and Disaster Risk Reduction (PEDRR)](https://www.genevaenvironmentnetwork.org/resources/newsletter/)
+
 ## Climate
 * [Silencing Science tracker](http://columbiaclimatelaw.com/resources/silencing-science-tracker/)
 * [United Nations University (UNU) INSIGHTS](https://unu.edu/insights)
