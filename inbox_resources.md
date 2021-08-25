@@ -28,6 +28,7 @@ An overview of mailing lists or newsletters that are worth signing up for
 * [Norwegian refugee council](https://www.nrc.no/)
 * [United Nations Office for Project Services (UNOPS)](https://mailchi.mp/unops/unops-sign-up-en)
 * [United Nations Platform for Space-based Information for Disaster Management and Emergency Response (UN SPIDER)](http://www.un-spider.org/news-and-events/newsletter)
+* [Innovations for Poverty Action](https://www.poverty-action.org/mailing-list-signup)
 
 ## Disaster
 * [Partnership for Environment and Disaster Risk Reduction (PEDRR)](https://sibforms.com/serve/MUIEAKG0SNlVO1EjnxzxVviiXOlwI9-Ghp4QOAx2qkYnbcsfxGkyR7EfHqD5BNa_3Hrvvs0d68OPcw1mmTVrLvoJI_npTeKPIcdcujEmof2_ldeUbhrFclSVwnButRqy2K_rmkBgYsFrfIJzkAM_3yCV4bKVsPk0WC_vJ9KyZ-Rukbyp_4rw1-Li10c5yI1Rzns0VczgWs_PmAZJ)
