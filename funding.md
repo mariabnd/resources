@@ -21,3 +21,4 @@ An overview of websites related to funding (split out of [inbox resources](inbox
 * [Thomas Young Centre funded visits](https://www.thomasyoungcentre.org/fund-visits/)
 * [Society for Mathematical Biology](https://www.smb.org/grant-opportunities/)
 * [European Health and Digital Executive Agency (HaDEA)](https://hadea.ec.europa.eu/calls-proposals_en)
+* [Innovations for Poverty Action's competitive funds](https://www.poverty-action.org/work-with-ipa/competitive-funds)
