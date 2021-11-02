@@ -7,6 +7,8 @@ This repository contains
 * [a list of places to find grey literature](grey_literature.md)
 * [a list of funding opportunities](funding.md)
 * [a list of coding challenges](code_challenges.md)
+* [some music to put on while working](bgm.md)
+* [resources to improve wording in texts](writing.md)
 
 For code, see _[Miscellaneous](https://github.com/mariabnd/miscellaneous)_
 
