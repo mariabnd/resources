@@ -5,6 +5,11 @@ Some resources that come in useful when doing research-related tasks
 * [Unpaywall](https://unpaywall.org)
 * [Catalogue of biases](https://catalogofbias.org/biases)
 
+## Checking journal policy
+
+* [Directory of Open Access Journals (DOAJ)](https://doaj.org/)
+* [Securing a Hybrid Environment for Research Preservation and Access Rights MEtadata for Open archiving (SHERPA/RoMEO)](https://v2.sherpa.ac.uk/romeo)
+
 ## How I structure my .bib files (personal preference)
 
 * Ordered alphabetically by key
