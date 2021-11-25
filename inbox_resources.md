@@ -32,6 +32,7 @@ An overview of mailing lists or newsletters that are worth signing up for
 
 ## Disaster
 * [Partnership for Environment and Disaster Risk Reduction (PEDRR)](https://sibforms.com/serve/MUIEAKG0SNlVO1EjnxzxVviiXOlwI9-Ghp4QOAx2qkYnbcsfxGkyR7EfHqD5BNa_3Hrvvs0d68OPcw1mmTVrLvoJI_npTeKPIcdcujEmof2_ldeUbhrFclSVwnButRqy2K_rmkBgYsFrfIJzkAM_3yCV4bKVsPk0WC_vJ9KyZ-Rukbyp_4rw1-Li10c5yI1Rzns0VczgWs_PmAZJ)
+* [Centre for Research on the Epidemiology of Disasters (CRED)](https://www.cred.be/tools/stay_informed.html)
 
 ## Climate
 * [Silencing Science tracker](http://columbiaclimatelaw.com/resources/silencing-science-tracker/)
