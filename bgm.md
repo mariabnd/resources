@@ -4,6 +4,8 @@ Various pieces of music that are sometimes nice to have on in the background whi
 
 | Artist | Title | Year |
 | ---- | ---- | ---- |
+| Mort Garson | 1976 | Mother Earth's Plantasia |
+| Stevie Wonder | Stevie Wonder's Journey Through "The Secret Life of Plants" | 1979 |
 | 吉村弘 (Hiroshi Yoshimura) | Green | 1986 |
 | 磯田健一郎 (Kenichiro Isoda) | ナチュラル・トリップ マジエルの星 (Natural Trip: Majel's Star) | 1990 |
 | 吉村弘 (Hiroshi Yoshimura) | Wet Land | 1993 |
