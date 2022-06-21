@@ -12,4 +12,6 @@ to the preamble and
 ```
 \RaggedRight
 ```
-after `\begin{document}`
+after `\begin{document}
+
+The Journal of Clinical Epidemiology has a [Writing Tips series](https://jclinepi.com/content/jce-Writing-Tips-Series) NB the authorship one mentioned only ICMJE and [CReDIT](https://casrai.org/credit/) is more inclusive to e.g. research engineers
