@@ -15,3 +15,8 @@ to the preamble and
 after `\begin{document}
 
 The Journal of Clinical Epidemiology has a [Writing Tips series](https://jclinepi.com/content/jce-Writing-Tips-Series) NB the authorship one mentioned only ICMJE and [CReDIT](https://casrai.org/credit/) is more inclusive to e.g. research engineers
+
+## Suggestions to avoid confusion in time when communicating to others (particularly AmEng speakers)
+
+* Use *fortnightly* to mean every fourteen days and *semiweekly* to mean twice a week. Avoid *biweekly*
+* Use *biennial* to mean every two years and *biannual* **only** to mean twice a year
