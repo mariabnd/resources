@@ -20,3 +20,5 @@ The Journal of Clinical Epidemiology has a [Writing Tips series](https://jclinep
 
 * Use *fortnightly* to mean every fourteen days and *semiweekly* to mean twice a week. Avoid *biweekly*
 * Use *biennial* to mean every two years and *biannual* **only** to mean twice a year
+* Avoid use of *quite*; Americans think it's an amplifier and will misunderstand
+* Use *rather* when amplifying
