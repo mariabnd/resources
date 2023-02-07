@@ -5,6 +5,11 @@ Some resources that come in useful when doing research-related tasks
 * [Unpaywall](https://unpaywall.org)
 * [Catalogue of biases](https://catalogofbias.org/biases)
 
+## Selecting a journal
+
+* [Journal/Author Name Estimator (JANE)](https://jane.biosemantics.org/)
+* [Directory of Open Access Journals (DOAJ)](https://doaj.org/)
+
 ## Checking journal policy
 
 * [Directory of Open Access Journals (DOAJ)](https://doaj.org/)
