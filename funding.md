@@ -1,6 +1,6 @@
 # Funding
 
-An overview of websites related to funding (split out of [inbox resources](inbox_resources.md) as they are not all strictly speaking mailing lists or newsletters)
+An overview of websites related to funding (split out of [inbox resources](inbox_resources.md) as they are not all strictly speaking mailing lists or newsletters). One newsletter is the [Scientify research grant alert](https://www.scientifyresearch.org/content-alert/)
 
 * [Mozilla research grants](https://mail.mozilla.org/listinfo/mozilla-research-grant)
 * [Wellcome](https://wellcome.ac.uk/funding)
@@ -22,4 +22,3 @@ An overview of websites related to funding (split out of [inbox resources](inbox
 * [Society for Mathematical Biology](https://www.smb.org/grant-opportunities/)
 * [European Health and Digital Executive Agency (HaDEA)](https://hadea.ec.europa.eu/calls-proposals_en)
 * [Innovations for Poverty Action's competitive funds](https://www.poverty-action.org/work-with-ipa/competitive-funds)
-* [FTX Future Fund](https://ftxfuturefund.org/our-grants/)
