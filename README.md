@@ -9,6 +9,8 @@ This repository contains
 * [a list of coding challenges](code_challenges.md)
 * [some music to put on while working](bgm.md)
 * [resources to improve wording in texts](writing.md)
+* [ways to force the login pop-up page for wifi](internet-access.md)
+* [research-related stuff](research.md)
 
 For code, see _[Miscellaneous](https://github.com/mariabnd/miscellaneous)_
 
