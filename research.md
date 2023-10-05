@@ -9,6 +9,7 @@ Some resources that come in useful when doing research-related tasks
 
 * [Journal/Author Name Estimator (JANE)](https://jane.biosemantics.org/)
 * [Directory of Open Access Journals (DOAJ)](https://doaj.org/)
+* [oa.finder](https://finder.open-access.network/)
 
 ## Checking journal policy
 
