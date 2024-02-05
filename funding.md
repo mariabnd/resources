@@ -22,3 +22,9 @@ An overview of websites related to funding (split out of [inbox resources](inbox
 * [Society for Mathematical Biology](https://www.smb.org/grant-opportunities/)
 * [European Health and Digital Executive Agency (HaDEA)](https://hadea.ec.europa.eu/calls-proposals_en)
 * [Innovations for Poverty Action's competitive funds](https://www.poverty-action.org/work-with-ipa/competitive-funds)
+
+## Nordic
+* [NordForsk](https://www.nordforsk.org/funding-opportunities)
+* [Vetenskapsrådet](https://www.vr.se/](https://www.vr.se/soka-finansiering/utlysningar-och-beslut.html)https://www.vr.se/soka-finansiering/utlysningar-och-beslut.html)
+* [Danmarks fri forskningsfond](https://dff.dk/ansog/ansogning/aktuelle-opslag)
+* [Forskningsrådet](https://www.forskningsradet.no/utlysninger/?deadlineTypes=%e2%88%928584919236854775808&deadlineTypes=%e2%88%928584913188854775808)
