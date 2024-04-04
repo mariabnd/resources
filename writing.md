@@ -29,4 +29,10 @@ after `\begin{document}
 
 The Journal of Clinical Epidemiology has a [Writing Tips series](https://jclinepi.com/content/jce-Writing-Tips-Series) NB the authorship one mentioned only ICMJE and [CReDIT](https://casrai.org/credit/) is more inclusive to e.g. research engineers
 
+## Images
 
+*For slidepacks etc.*
+
+* Biorender
+* Wellcome collection
+* USCDC Public health image library
