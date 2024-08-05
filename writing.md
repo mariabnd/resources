@@ -5,6 +5,7 @@
 * [European Union Interinstitutional Style Guide](https://publications.europa.eu/code/en/en-000100.htm) useful for country names
 * Use *adherence* or *concordance* rather than *compliance* when discussing uptake of treatment (suggested in From Chaos to Coercion)
 * Follow the epidemiologic equivalent to the Bender rule -- always state the location being investigated
+* [The Health Foundation style guide](https://www.health.org.uk/publications/write-right)
 
 ### Specific suggestions to avoid confusion in time when communicating to others (particularly AmEng speakers)
 
