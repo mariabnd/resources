@@ -37,3 +37,10 @@ The Journal of Clinical Epidemiology has a [Writing Tips series](https://jclinep
 * Biorender
 * Wellcome collection
 * USCDC Public health image library
+
+## Subject classifications
+
+* Mathematics Subject Classification (MSC2020) codes
+* Journal of Economic Literature (JEL) codes
+* Medical subject headings (MeSH) index terms
+* Library of Congress subject headings index terms
