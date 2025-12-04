@@ -1,5 +1,7 @@
 # Funding
 
+Examples of successful applications can be found at [Open Grants](https://www.ogrants.org/) and [RILAB](https://github.com/RILAB/statements)
+
 An overview of websites related to funding (split out of [inbox resources](inbox_resources.md) as they are not all strictly speaking mailing lists or newsletters). One newsletter is the [Scientify research grant alert](https://www.scientifyresearch.org/content-alert/)
 
 * [Mozilla research grants](https://mail.mozilla.org/listinfo/mozilla-research-grant)
