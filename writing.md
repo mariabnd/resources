@@ -13,6 +13,10 @@
 * Use *biennial* to mean every two years and *biannual* **only** to mean twice a year
 * Avoid use of *quite*; Americans think it's an amplifier and will misunderstand. Instead use *rather* when amplifying
 
+### Considerations for keywords
+
+* Pottier et al. (2024) ["Title, abstract and keywords: a practical guide to maximize the visibility and impact of academic papers"](https://doi.org/10.1098/rspb.2024.1222)
+
 ## Readibility
 
 Remember to left-align text for readibility (here I disagree with *Trees, Maps, and Theorems*). For LaTeX add
